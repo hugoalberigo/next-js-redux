@@ -1,0 +1,27 @@
+.nav-link {
+    color:#ffffff;
+    padding-left: 50px;
+    font-weight: bold;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.navbar {
+    padding: 10px 0px;
+    line-height: 50px;
+}
+
+.nav-item{
+    border-radius: 6px;
+    margin-right: 14px;
+    margin-left: 14px;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #e8bd15;
+    box-shadow: 5px 10px 30px rgba(220, 180, 20, 0.336);
+    transition: all ease 0.2s;
+    border-radius: 6px;
+    padding: 1px;
+}
